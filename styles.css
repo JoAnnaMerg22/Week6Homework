@@ -76,3 +76,9 @@ a:hover {
 #city-name::first-letter {
   text-transform: capitalize;
 }
+
+.footer {
+  margin: 20px auto;
+  max-width: 800px;
+  text-align: center;
+}
